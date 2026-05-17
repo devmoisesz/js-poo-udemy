@@ -1,5 +1,6 @@
-### JavaScript Classes - Programação Orientada Objetos - Udemy
+### JavaScript Classes - Programação Orientada a Objetos - Udemy
 
 ---
 
 - Getter e Setters
+- Herança
