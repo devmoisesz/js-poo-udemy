@@ -32,5 +32,6 @@ for(let i = 0; i <= 200; i++){
     c1.acelerar();
 }
 c1.freiar();
+c1.freiar();
 
 console.log(c1.velocidade); 

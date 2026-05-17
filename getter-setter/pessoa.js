@@ -18,5 +18,6 @@ class Pessoa{
 const p1 = new Pessoa('Vitor', 'Souza')
 p1.NomeCompleto = 'Vitor Souza Firmino'
 console.log(p1)
+console.log(p1.NomeCompleto)
 console.log(p1.nome)
 console.log(p1.sobrenome)
