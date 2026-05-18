@@ -4,3 +4,4 @@
 
 - Getter e Setters
 - Herança
+- Métodos de instância e estáticos
